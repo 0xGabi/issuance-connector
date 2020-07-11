@@ -1,5 +1,7 @@
 # The Graph Connector for Issuance
 
+[![codecov](https://codecov.io/gh/0xGabi/issuance-connector/branch/master/graph/badge.svg)](https://codecov.io/gh/0xGabi/issuance-connector)
+
 ## Usage
 
 ```js
